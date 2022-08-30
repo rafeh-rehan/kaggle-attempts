@@ -4,4 +4,4 @@ This repository consists of attempts at kaggle competitions using machine learni
 
 titanic - Objective: Binary classification task for passengers who either survive or don't survive on the titanic. Currently working on making the models deployable through the use of Django 
 
-goodreads (incomplete) - Objective: Using NLP techniques on book reviews to predict a given user score from 1-5. Data for training and validation can be found at https://www.kaggle.com/competitions/goodreads-books-reviews-290312/data.
+goodreads (incomplete) - Objective: Using NLP techniques on book reviews to predict a given user score from 1-5. 
